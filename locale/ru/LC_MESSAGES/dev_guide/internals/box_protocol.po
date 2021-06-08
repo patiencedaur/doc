@@ -1,6 +1,6 @@
 
 msgid "Binary protocol"
-msgstr ""
+msgstr "Бинарный протокол"
 
 msgid ""
 "The binary protocol is called a \"request/response\" protocol because it is "
