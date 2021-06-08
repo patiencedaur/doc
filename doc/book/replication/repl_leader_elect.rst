@@ -127,7 +127,7 @@ Configuration
   option for the purpose of configuring the election quorum. The default value is ``1``,
   meaning that each node becomes a leader immediately after voting for itself.
   It is the best to set up this option value to the ``(<cluster size> / 2) + 1``.
-  Otherwisem, there is no guarantee that there is only one leader at a time.
+  Otherwise, there is no guarantee that there is only one leader at a time.
 
 Besides, it is important to know that
 being a leader is not the only requirement for a node to be writable.
